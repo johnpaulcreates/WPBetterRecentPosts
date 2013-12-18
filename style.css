@@ -1,0 +1,9 @@
+.BetterRecentPosts span.format-image:before {
+    content: "";
+	-webkit-font-smoothing: antialiased;
+	
+	font: normal 22px/1 Genericons;
+	text-decoration: inherit;
+	vertical-align:bottom;
+	
+}
